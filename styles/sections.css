@@ -25,6 +25,10 @@
       position: absolute;
       bottom: 0;
 
+      &:has(.text-lg) {
+        padding: 12px;
+      }
+
       padding:24px;
 
       h2{
