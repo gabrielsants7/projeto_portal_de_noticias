@@ -4,16 +4,16 @@ Pagina inicial de um portal de noticias desenvolvida com HTML e CSS, com foco em
 
 ## Sobre o projeto
 
-Este projeto consiste na construcao de uma landing page de portal de noticias com secoes de destaque, noticias mais lidas, conteudos sobre inteligencia artificial e uma area lateral com publicidade e recomendacoes adicionais.
+Este projeto consiste na construção de uma landing page de portal de noticias com seções de destaque, notícias mais lidas, conteúdos sobre inteligência artificial e uma área lateral com publicidade e recomendações adicionais.
 
 O objetivo foi praticar:
 
-- Estruturacao semantica com HTML
-- Organizacao de estilos em multiplos arquivos CSS
-- Uso de variaveis CSS
-- Criacao de grids e composicao visual
-- Posicionamento de elementos e sobreposicao de conteudo sobre imagens
-- Construcao de layout inspirado em prototipo no Figma
+- Estruturação semântica com HTML
+- Organização de estilos em multiplos arquivos CSS
+- Uso de variáveis CSS
+- Criação de grids e composição visual
+- Posicionamento de elementos e sobreposição de conteúdo sobre imagens
+- Construção de layout inspirado em prototipo no Figma
 
 ## Tecnologias utilizadas
 
@@ -46,21 +46,21 @@ projeto_portal_de_noticias/
 
 ## Funcionalidades da pagina
 
-- Cabecalho com navegacao principal e secundaria
-- Secao de noticias em destaque
-- Secao "Mais lidas da semana"
-- Secao de destaques sobre inteligencia artificial
-- Area lateral com banner publicitario
-- Secao "Viu isso aqui?" com noticias complementares
+- Cabeçalho com navegação principal e secundária
+- Seção de notícias em destaque
+- Seção "Mais lidas da semana"
+- Seção de destaques sobre inteligência artificial
+- Area lateral com banner publicitário
+- Seção "Viu isso aqui?" com noticias complementares
 
 ## Layout
 
 A interface foi desenvolvida com foco em:
 
 - Visual escuro
-- Destaque para conteudo editorial
-- Cards com imagens e sobreposicao de texto
-- Distribuicao em grid
+- Destaque para conteúdo editorial
+- Cards com imagens e sobreposição de texto
+- Distribuição em grid
 - Hierarquia visual com tipografia e tags de categoria
 
 ## Como executar o projeto
